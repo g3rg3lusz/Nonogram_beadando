@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Nonogram.Test/Nonogram.Test.csproj" Id="d2dc9d5a-5c7e-4018-bafc-881de47e29dc" />
+  <Project Path="Nonogram.WinForms/Nonogram.WinForms.csproj" />
+  <Project Path="Nonogram/Nonogram.csproj" />
+</Solution>
